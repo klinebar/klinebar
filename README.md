@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin, an <a href="https://www.linkedin.com/in/kevinlinebarger">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kevin, an <a href="https://www.linkedin.com/in/kevinlinebarger">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
